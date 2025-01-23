@@ -66,4 +66,3 @@ p = Pull-off
 > *“It could help to barre the 9th fret at times.”*  
 > *If anyone can help with recreating Archy’s tone, please share!*
 
-```
