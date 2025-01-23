@@ -20,7 +20,7 @@ I started this project to keep track of all the songs I love to play on guitar. 
 
 ## Folder Structure
 
-- **Artist** folders (e.g., `ArtistA`, `ArtistB`) each contain:
+- **Artist** folders (e.g., `king-krule`, `bad-bunny`) each contain:
   - A README with details about the artist.
   - Subfolders for albums, each with its own README and song tabs.
 
