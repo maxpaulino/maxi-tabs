@@ -1,6 +1,6 @@
-# My Guitar Tabs
+# maxi tabs
 
-Welcome to **My Guitar Tabs**! This repository is a personal collection of guitar tablature and chord sheets for my favorite songs. It’s organized by artist, then by album, and finally by individual song files in Markdown format.
+Welcome to my guitar tabsl! This repository is a personal collection of guitar tablature and chord sheets for my favorite songs. It’s organized by artist, then by album, and finally by individual song files in Markdown format.
 
 ## Table of Contents
 
