@@ -65,11 +65,3 @@ E|--2---------------------------------------|
 - **(n)** = Ghost note / optional note
 
 ```
-
-**How to use this template:**
-
-1. **Copy & Paste** the Markdown into a new `.md` file in your repository.
-2. **Replace** all bracketed placeholders (`[Song Title]`, `[Insert your TAB notation here]`, etc.) with real data.
-3. **Add or Remove Sections** (Pre-Chorus, Bridge, Solo) to match the structure of your specific song.
-4. **Check Consistency** in formatting—use triple backticks for tablature and ensure chords/lyrics line up correctly.
-5. **Save & Commit** your changes to your version control.
