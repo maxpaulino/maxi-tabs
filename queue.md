@@ -1,0 +1,7 @@
+king krule - the ooz
+king krule - slinky
+the fall - midnight in aspen
+animal collective - visiting friends
+connan mockasin - forever dolphin love
+connan mockasin - faking jazz together
+billie marten - blue sea, red sea
