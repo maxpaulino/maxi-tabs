@@ -1,5 +1,8 @@
 - king krule - the ooz
+- king krule - seagirl
 - king krule - slinky
+- bob dylan - girl from the north country
+- cindy lee - wild one
 - the fall - midnight in aspen
 - animal collective - visiting friends
 - connan mockasin - forever dolphin love
