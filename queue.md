@@ -2,3 +2,4 @@
 - dave bixby - drug song (tab when capo)
 - dave bixby - the morning sun (tab when capo)
 - dave bixby - free indeed (tab when capo)
+- tapir! - eidolon
