@@ -1,12 +1,4 @@
-- king krule - the ooz
-- king krule - seagirl
-- king krule - slinky
-- king krule - alone omen, 3
-- bob dylan - girl from the north country
-- cindy lee - wild one
-- the fall - midnight in aspen
-- animal collective - visiting friends
-- connan mockasin - forever dolphin love
-- connan mockasin - faking jazz together
-- billie marten - blue sea, red sea
-- dave bixby - drug song
+
+- dave bixby - drug song (tab when capo)
+- dave bixby - the morning sun (tab when capo)
+- dave bixby - free indeed (tab when capo)
