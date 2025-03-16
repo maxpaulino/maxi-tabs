@@ -1,6 +1,7 @@
 - king krule - the ooz
 - king krule - seagirl
 - king krule - slinky
+- king krule - alone omen, 3
 - bob dylan - girl from the north country
 - cindy lee - wild one
 - the fall - midnight in aspen
