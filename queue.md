@@ -1,5 +1,9 @@
 - king krule - our vacuum
+- king krule - baby blue
 - dave bixby - drug song (tab when capo)
 - dave bixby - the morning sun (tab when capo)
 - dave bixby - free indeed (tab when capo)
 - tapir! - eidolon
+- mac demarco - let my baby stay
+- king krule - midnight 01 (deep sea diver)
+
