@@ -22,6 +22,38 @@ E|------3------|------3------|------2------|
 
 ---
 
+## Lyrics
+
+```
+Take, take, take, take
+Take, take, take, take, take, take, take, take...
+Take, take, take, take, take, take, take, take
+Take, take, take, take, take, take, take, take, take, take, take, take...
+Take, take, take, take...
+Water falling from my fingers (take, take, take, take...)
+You stare in awe
+Call me Seagirl
+Painter, he is quite a thinker
+Let him paint me, his Seagirl
+Her underwater ecstasy
+You could easily be the death of me
+I swim through (take, take, take, take...)
+And if I start sinking, I'm probably overthinking
+Ooh-ooh, he comes to me
+Ooh-ooh, stuck on his knees (take, take, take, take...)
+Ooh-ooh, asking for better days
+Don't turn me into wine
+Something to pass the time
+I know that when we're done (take, take, take, take...)
+That's when I'll fall in love (take, take, take, take...)
+Mmm...
+Mmm...
+Mmm...
+Mmm... (take, take, take, take...)
+Take, take, take, take...
+```
+---
+
 ## Notes & Performance Tips
 
 - **Tuning:** Standard (E A D G B E)  
