@@ -143,6 +143,30 @@ E|--------4------x-------------0--|
 
 ---
 
+## Lyrics
+
+```
+Wild one
+You can do what you want
+Wild one
+Is that all that you've got?
+
+And I look right through you
+Hoping for someone new
+Don't tell me the party's over
+My four-leaf clover
+
+Wild one
+It's my favorite song
+Wild one
+Is that all that you've got?
+
+And I look right through you
+And I look right through you
+And I look right through you
+```
+
+---
 ## Notes & Performance Tips
 
 - **Tuning:** Standard (E A D G B E)  
