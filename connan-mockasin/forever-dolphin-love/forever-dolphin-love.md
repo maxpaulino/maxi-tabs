@@ -121,6 +121,49 @@ E|-----------------|
 
 ---
 
+## Lyrics
+
+```
+From bleached waves that never change
+From Dalston
+Forever Dolphin Love, ah ah ah ah ah
+
+My dull steed, she has no hair
+I’ll talk to her
+Forever Dolphin Love, ah ah ah ah ah
+
+And Dun’s life, he’s turning heads
+He talks to her
+Forever Dolphin Love, ah ah ah ah
+
+From memories that never change
+Of Dalston
+Forever Dolphin Love, ah ah ah ah ah
+
+Oh Sunter, I loved her
+She was to be my wife
+Oh Sunter, I loved her
+She was to be my wife
+My wife, my wife
+
+The backbeat, never change
+In Dalston
+Forever Dolphin Love, ah ah ah ah ah ah
+
+The beat way, they're never dark
+Dalston
+They're never back in place, ah ah ah
+
+The beat way, they're never dark
+In Boston
+Forever Dolphin Love, ah ah ah ah
+
+From memories that never change
+From Dalston
+Forever Dolphin Love, ah ah ah
+```
+
+---
 ## Notes & Performance Tips
 
 - **Tuning:** Standard (E A D G B E)  
