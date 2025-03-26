@@ -22,6 +22,35 @@ D|---------------7-7-7-7-7-7-7-----------------7-7-7-7-7-7-7--------------------
 
 ---
 
+
+## Lyrics
+
+```
+I had not thought about it
+She appears from nothing
+Out the blue
+
+I sink in full armor
+The lake is oil of misery
+Get ready, slurp it up
+
+She held out her hand outspoken
+I refuse to be saved
+My plastic straw
+
+My plastic straw, my plastic straw
+My plastic straw, my plastic straw
+My plastic straw, my plastic straw
+My plastic straw, my plastic straw
+My plastic straw
+
+Very sensitive, very sensitive
+Very sensitive men
+Very sensitive, very sensitive
+Very sensitive men
+```
+
+
 ## Notation Key
 
 ```
