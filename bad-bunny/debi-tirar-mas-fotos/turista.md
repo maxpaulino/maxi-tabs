@@ -188,6 +188,55 @@ E|---6-----------6-----------4------------4------------|
         (Bbm7)
 ```
 
+## Lyrics
+
+```
+En mi vida fuistes turista
+Tú solo vistes lo mejor de mí
+Y no lo que yo sufría
+Te fuiste sin saber el porqué
+El porqué de mis herida'
+Y no te tocaba a ti curarla'
+Vinistes a pasarla bien
+Y la pasamos bien
+
+Una foto bonita
+Un atardecer hermoso
+Una bailaíta
+Tu cadenita de oro
+Estuvimos tan cerquita
+Mirándono a los ojo'
+Dime si vistes la pena
+De mi corazón roto
+
+Que lleva así, lleva así mucho tiempo
+Ya lleva así, lleva así muchos año'
+Escondiéndome los sentimiento'
+Tengo miedo que me hagan más daño
+Y lleva así, lleva así mucho tiempo
+Ya lleva así, lleva así muchos año', ey
+
+Ya no sé, mi amor
+Lo que la vida tendrá
+Pa ti y pa mí
+Si se da, pues se da
+Y si no, pues también
+Vamos a disfrutar que
+
+La noche se puso bonita
+Pero no tanto como tú
+Jamás y nunca como tú, uh-uh
+
+En mi vida fuistes turista
+Tú solo vistes lo mejor de mí
+Y no lo que yo sufría
+Te fuiste sin saber el porqué
+El porqué de mis herida'
+Y no te tocaba a ti curarla'
+Vinistes a pasarla bien
+Y la pasamos bien
+```
+
 ---
 
 After This:  
