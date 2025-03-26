@@ -53,6 +53,33 @@ E|------------------------------------------------------------------|
 
 ---
 
+## Lyrics
+
+```
+Has it been this long?
+Has it been this long?
+Since I saw you ?
+Has it been this long?
+
+Has it been this long?
+Since I've had this bump
+Close to where I belong
+I don't ever wanna leave this night
+And has it been this long?
+Wanting deep space lullabies
+Well, has it been this long?
+Lost paradise for one
+I can't see your face
+Resting where I belong
+I want to cross you every day
+Was I feeling love?
+Spent most of my time
+Orbiting your waist
+And had it been this long
+Since I got lost in space?
+```
+
+---
 ## Notation Key
 
 ```plaintext
