@@ -48,7 +48,54 @@ E|-----3--0-------|
 ```
 
 *(You'll figure out the vibes)*
+---
 
+## Lyrics
+
+```
+The person you're calling is on another line
+Just leave your message after the tone
+And when you're done, press hash, or just hang up
+
+You're my everything
+You make me feel alright
+You're the only thing
+That makes me feel alright
+You're my everything
+You make me feel alright
+And you're the only thing
+I never feel alright
+
+I guess I have to go
+And in my silence
+It's so menacing
+And when I'm left alone
+It's so damaging
+And in this violence
+The walls cave-in
+I'm not able to escape it all
+
+'Cause you're my everything, and I have no words
+You're the only thing that makes life worth
+Thought I had everything, but it's not worth
+Thought I had everything
+
+Another lonely night
+Another lonely night
+You're my everything
+You make me feel alright
+You're the only thing
+That makes me feel alright
+You're my everything
+You make me feel just fine
+And you're the only thing
+I never feel alright
+
+I guess I have to go
+I guess I have to go
+```
+
+---
 
 ## Notes & Performance Tips
 
