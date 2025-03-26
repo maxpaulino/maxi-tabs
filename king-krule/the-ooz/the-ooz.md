@@ -156,6 +156,79 @@ This basically continues, and a bit later on, he begins to strum the chords inst
 
 ---
 
+
+## Lyrics
+
+```
+Through moans of the dead, the universe in skulls
+As oceans stand still, steel structures dissolves
+Knows of dust soft fuzz (Is there anybody out there? Hello?)
+She pants, she pants
+All I can see is her mouth (Is there anybody out there? Hello?)
+It's motion, it's urgent, it's trigger
+(Is anybody out there? Hello?)
+Pulling us in, she pants (Is there anybody out there? Hello?)
+Distortion trails up spines, the locomotive has arrived
+(Is anybody out there?)
+The locomotive has arrived
+
+I don't know why
+I search for you
+Could we align?
+And can we meet here
+Until the end of time?
+
+Is there anybody out there?
+'Cause I'm all alone
+In soft bleeding, we will unite
+We ooz two souls, pastel blues
+Heightened touch from losing sight (losing sight)
+Swimming through the glue lagoon
+Basking in the dark of night (the dark of night)
+Of depths unknown to be explored
+We sink together through the sky (the sky)
+
+I don't know why
+I search for you
+Could we align?
+Could we meet here
+Until the end of time?
+
+Is anybody out there?
+A lover's sigh
+To be absorbed
+But I let go, I slip alone
+Sorrow weeps my lucid eye (lucid eye)
+Abandoned bodies by numb minds
+The universe salutes, Lucifer cries
+Within heartbeats, you strum goodbye
+Within your heartbeats, you say goodbye
+I don't know why
+Is anybody out there?
+Could we align?
+
+She pants, she steals
+Can't you breathe?
+Through moans of the dead
+The universe in skulls
+As oceans stand still
+Steel structures dissolve
+She weeps
+Her sweet sting
+Bleeding perfume perpetually
+It overflows, it sinks
+It drips in obnoxious ink
+On streets, in clothes
+She leaps, she limps
+Tense liquid herbivore
+Cannibal pacifier
+She pushes me off
+It's cold by the fire
+```
+
+---
+
+
 ## Notes & Performance Tips
 
 - **Tuning:** Standard (E A D G B E)  
