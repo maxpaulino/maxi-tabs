@@ -6,7 +6,7 @@ Nice choice! Here's your tab formatted cleanly into the template:
 
 **Artist:** Mac DeMarco  
 **Album:** Salad Days  
-**Tabs Written By:** [Your Name]
+**Tabs Written By:** UG User
 
 ---
 
