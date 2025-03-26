@@ -41,6 +41,35 @@ E|--2---------------------------------------|
 ```
 ---
 
+## Lyrics
+
+```
+Where'd it all go wrong?
+Found yourself again
+Let it lose its ties
+And you paint your friends
+
+One of them Ferris wheels
+Looks like we'll meet again
+It goes round and round
+It mends, it bends
+But it stays all the same
+
+Where'd your lovers go?
+Met her in the snow
+Long lost empty minds
+You just let them go
+Now here, the picket line
+Waited for you all night
+And all day
+
+Waited for you all day
+And all day, and all night
+But no show
+They was never there
+```
+
+---
 
 ## Notes & Performance Tips
 
