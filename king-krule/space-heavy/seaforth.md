@@ -131,6 +131,50 @@ E|2-------3-----------------------------|
 
 ---
 
+
+## Lyrics
+
+```
+She's sleepin' (She's sleepin')
+Sleeping (Sleepin')
+
+She speaks in my dreaming
+I take her waist within my hands
+And when I wake she melts away into the sand
+What meaning of this feelin'?
+Why'd you return into the world of distant past?
+We separate across the blades of growin' grass (Across the blades of growin' grass)
+
+I see you, the same eyes
+Reflect the world that falls apart
+There's a fire in my heart
+'Cos this faith is all I have
+(Baby, this faith is all I have)
+
+Despite the, the brick walls, the ceiling
+Up here I'm freer than the birds
+We soar above the broken Earth
+The train line in Seaforth
+We sit and watch the planet dyin' up above
+We sit and smile without concern
+Now walk through shop centres together
+Our love dissolves this universe (Our love dissolves the universe)
+
+I see you, my same eyes
+Reflect the world that falls apart
+There's a fire in our hearts
+Baby, this faith is all I have
+(Baby, this faith is all I have)
+
+This faith is all I have (This faith is all I have)
+Baby, this faith is all I have (This faith is all I have)
+Baby, this faith is all I have (Baby, this faith is all I have)
+We share the dark days between us (We share the dark days between us)
+They put a heavy space between us (They put a heavy space between us)
+They put a heavy space between us (They put a heavy space between us)
+```
+
+
 ## Notation Key
 
 ```plaintext
