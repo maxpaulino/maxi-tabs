@@ -192,6 +192,38 @@ E|----------------------------------|
 
 ---
 
+## Lyrics
+
+```
+Where are you goin'?
+The day's about to end
+Such a funny life I lead
+I'm sittin', soakin' in the times I bleed
+Watch it flow right out of me
+
+Why stop readin'?
+When the page is 'bout to turn
+Such a funny life I lead
+I think about it all the time I sleep
+Yeah, someone told me it gets worse, I disbelieve
+
+Thought I'd be overseas curing disease but
+Now it's part of me
+
+She's alright
+Such a funny life I lead
+Such a funny life
+Such a funny life
+Such a funny life
+Such a funny life
+Such a funny life
+(Such a funny life)
+(Such a funny life)
+(Such a funny life)
+(Such a funny life)
+```
+
+---
 ## Final Note
 
 Thank you for taking the time to learn this version of King Krule’s song. Enjoy!
