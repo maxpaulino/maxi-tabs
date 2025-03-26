@@ -82,6 +82,25 @@ E|---------------------------------------------------------------------------|
 
 ---
 
+## Lyrics
+
+```
+[Outro]
+Sometimes I just-
+I just-
+I don't know
+Sometimes I just-
+I just-
+I don't know
+Sometimes I just-
+I just-
+I don't know
+Sometimes I just-
+I just-
+I don't know
+```
+
+---
 ## References
 
 - Original tab credit: [unregistered_1268790 on Ultimate Guitar]  
