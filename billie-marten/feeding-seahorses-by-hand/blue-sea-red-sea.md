@@ -155,6 +155,49 @@ E|-------------0--------3--0-----|
 
 ---
 
+## Lyrics
+
+```
+I stop and listen sometimes
+Plug myself into your eyes
+And I can see what you see and I like it
+I'm a fish in a blue sea and I like it
+
+But don't pick on me with your sympathy
+I don't, I don't need you to love me
+
+Listen to the people who say
+Lalalala, lalalala
+Lalalala, lalalala
+
+This snow is falling heavy
+Wish my mother would come and get me
+Forget all this makeup and fall in the red sea
+Set the weight of each day like the leaves of our oak tree
+
+But don't pick on me with your sympathy
+I don't, I don't need you to love me
+
+Listen to the people who say
+Lalalala, lalalala
+Lalalala, lalalala
+Everybody's moving away
+Lalalala, lalalala
+Water pushes water away
+Lalalala, lalalala
+
+And it's all good 'cause I feel it too
+Hanging around with nothing to do
+Make friends with the angel that blessed you
+Maybe together we get in the good
+
+Lalalala, lalalala
+Lalalala, lalalala
+Lalalala, lalalala
+Lalalala, lalala
+```
+
+---
 ## Notes & Performance Tips
 
 - **Tuning:** Standard (E A D G B E)  
