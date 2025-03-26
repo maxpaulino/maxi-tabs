@@ -14,6 +14,44 @@ E|--x--x----x-------x--x---x-x--x---x-x---x-x--x--x-x---2-2-2--4-4---5-5--5--5-5
 
 ---
 
+## Lyrics
+
+```
+I'm used to saying I don't belong
+A burdened youth outcast from young
+But how are you I'm wasting your own time
+
+And once consumed, spit gunk from lungs
+To tell the truth I haven't done
+But how are you, I'm wasting your own time
+
+My skin is bleach, my hair is long
+I have no teeth, I've never done
+My gums are raw and bleeding all the time
+
+The shapes are grey, the cityscape
+Bourgeoisie change to replicate
+How can I be feeling the same as you?
+
+'Cause they
+Girl, they
+Won't be wasting my time
+They
+
+Sun will sink
+I never know
+Won't be wasting my time
+
+Won't be wasting my time
+They
+Won't be wasting my time
+They
+Girl, they
+Girl, they
+Won't be wasting my time
+```
+
+---
 ### Notation Key
 
 ```plaintext
