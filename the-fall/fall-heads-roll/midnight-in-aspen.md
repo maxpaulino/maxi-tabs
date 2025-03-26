@@ -46,6 +46,34 @@ E|---------------------------------------------------------------------------|
 
 ---
 
+## Lyrics
+
+```
+The fog sticks around
+As if he were on
+So it goes higher and higher
+Till the last
+
+Even chain on jeep
+Hyphen
+Aspen
+Utah
+Ice mounting over
+Jehovah
+
+Freedom of self-towns (?)
+6 p.m
+Rising
+
+He aims the highest bestest powered rifle at the stars
+Orion
+It bounces off
+The satellite
+He was lucky this week
+Midnight
+```
+
+---
 ## Notes & Performance Tips
 
 - **Tuning:** Standard (E A D G B E)  
