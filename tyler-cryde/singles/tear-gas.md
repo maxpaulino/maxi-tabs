@@ -92,7 +92,7 @@ E|-2-----------|-2-----------|-------------|-------------|
 ## Lyrics (Optional)
 
 ```
-[Verse 1: Fahkre, Hyde, Both]
+[Verse 1]
 My stubborn heart
 Your eggshell soul
 Silently you moan
@@ -102,12 +102,12 @@ You chastise me
 “Listen to me,” you cry
 Why would I pry?
 
-[Chorus: Fahkre, Hyde]
+[Chorus]
 But no more passive aggression
 Only lustful transgressions
 (I’ve got the cruellest intentions)
 
-[Verse 2: Fahkre, Hyde, Both]
+[Verse 2]
 Or tear gas me
 With bedtime tea
 And I’ll forget why we’re mad
@@ -117,12 +117,12 @@ The brunt you bear
 For a fool like me
 Is plain, oh, to see
 
-[Chorus: Fahkre, Hyde]
+[Chorus]
 But no more passive aggression
 Only lustful transgressions
 (I’ve got the cruellest intentions)
 
-[Outro: Fahkre, Hyde]
+[Outro]
 And who needs a fire
 Whеn there’s carnal desirе?
 (Let's get low to get higher)
