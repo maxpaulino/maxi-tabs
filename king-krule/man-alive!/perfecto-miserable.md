@@ -67,6 +67,7 @@ And you're the only thing
 I never feel alright
 
 I guess I have to go
+
 And in my silence
 It's so menacing
 And when I'm left alone
