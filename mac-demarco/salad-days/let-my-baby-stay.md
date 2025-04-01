@@ -31,25 +31,13 @@ E|--7-----------x-----------5--|
       [Bm7]I was made to love her  
       [E9]Been working at it  
       [A]Half of my life  
-      [E9]I've been an addict  
-```
+      [E9]I've been an addict
 
----
-
-## Pre-Chorus
-
-```
       [Bm7]And she's been good to me  
       [E9]Far as I can tell she's happy  
       [A]Living with her Macky  
-           [E9]  
-```
+           [E9]
 
----
-
-## Chorus
-
-```
       [Bm7]So please don't take my love away  
       [E9]Let my baby stay  
       [A]Let my baby stay  
@@ -59,35 +47,17 @@ E|--7-----------x-----------5--|
       [E9]Let my baby stay  
       [A]Let my baby stay  
       [E9]Let my baby stay  
-```
 
----
-
-## Verse
-
-```
       [Bm7]And where would I be  
       [E9]Feeling lonely  
       [A]Separated from my one and only  
-         [E9]  
-```
+         [E9]
 
----
-
-## Pre-Chorus
-
-```
       [Bm7]And what's there left to say  
       [E9]Far as I can tell that day  
       [A]Could be on its way  
-         [E9]  
-```
+         [E9]
 
----
-
-## Chorus
-
-```
       [Bm7]So please don't take my love away  
       [E9]Let my baby stay  
       [A]Let my baby stay  
@@ -96,23 +66,11 @@ E|--7-----------x-----------5--|
       [Bm7]Please don't take my love away  
       [E9]Let my baby stay  
       [A]Let my baby stay  
-      [E9]Let my baby stay  
-```
+      [E9]Let my baby stay
 
----
-
-## Outro
-
-```
       [Bm7]   [E9]   [A]   [E9]  
       [Scat singing]...
 ```
-
----
-
-## Lyrics
-
-*(Included inline with chords)*
 
 ---
 
