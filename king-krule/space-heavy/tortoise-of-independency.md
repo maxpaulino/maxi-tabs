@@ -202,6 +202,25 @@ E|-7-------3-------0----0----0----0----0--|
 
 ---
 
+## Lyrics
+
+```
+Strokes out silent, soft
+It's been a while since her days have been
+And in the cavernous sheets
+She feeds a tortoise of independency
+Why do you walk with me so slow?
+Said I walk like I'm in a trance
+And I spoke
+I said, "I just want this moment to last and to last"
+See those figures wait alone
+On the park bench of memories
+It's been and gone
+And yeah, I think about the dreams I've had for so long
+So long, so long, so long, so long
+```
+---
+
 ## Notes & Performance Tips
 
 - **Tuning:** Standard (E A D G B E)  
@@ -210,7 +229,7 @@ E|-7-------3-------0----0----0----0----0--|
 - **Strumming Pattern:** Light picking, arpeggiated  
 - **Techniques:** Hammer-ons, slides, dead notes  
 - **Tone / Effects:** Clean tone, reverb-heavy, subtle delay to mimic studio ambiance  
-
+```
 ---
 
 ## References
