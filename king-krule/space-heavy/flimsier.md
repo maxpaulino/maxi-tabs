@@ -1,4 +1,5 @@
 # Flimsier
+
 He's tuned a bit sharp (no capo) in the recording, so it’s slightly dissonant unless you tune up a bit.
 
 ---
@@ -15,6 +16,7 @@ E|--0-------3-----3--------------1--------1-|
 ```
 
 Before the main riff, do this one more time:
+
 ```plaintext
 E|------------|
 B|------------|
@@ -94,6 +96,7 @@ E|--12----------12-----11----------11-----7/8--5-------------------------3-----2
 When he starts singing something like “... weight of the world,” the main riff is slightly different:
 
 Do this twice:
+
 ```plaintext
 e|----------------------------------------------------------------------------------|
 B|-0h1--3--0-----------------------------------------------------------3--5\3--3--0-|
@@ -137,7 +140,7 @@ Finally, it ends with the chorus again.
 
 ---
 
-## Lyrics 
+## Lyrics
 
 ```
 She said it seems like these days merge as one
@@ -167,7 +170,6 @@ Onto empty chests
 ```
 
 ---
-
 
 ## Notation Key
 
