@@ -1,39 +1,78 @@
-# maxi tabs
+# maxi-tabs
 
-Welcome to my guitar tabsl! This repository is a personal collection of guitar tablature and chord sheets for my favorite songs. It’s organized by artist, then by album, and finally by individual song files in Markdown format. *30* tabs on here rn..
+Welcome to **maxi-tabs** — a personal collection of guitar tablature and chord sheets for my favorite songs. This repo is designed for clarity, accessibility, and easy contribution. All files are in Markdown format and organized by artist → album → song.
+
+---
 
 ## Table of Contents
 
 - [Introduction](#introduction)
 - [Folder Structure](#folder-structure)
+- [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Disclaimer](#disclaimer)
+
+---
 
 ## Introduction
 
-I started this project to keep track of all the songs I love to play on guitar. By transcribing them in a consistent format and hosting them on GitHub, I can:
+I started this project to keep track of all the songs I love to play on guitar. By transcribing them in a consistent, readable format and hosting them here on GitHub, I can:
 
-- Access them anywhere,
-- Share them with friends,
-- Receive contributions or corrections from the community.
+- Access them from anywhere
+- Share them with friends
+- Receive contributions or corrections from others
+
+This collection currently includes over **30 songs**, and it's growing regularly.
+
+---
 
 ## Folder Structure
 
-- **Artist** folders (e.g., `king-krule`, `bad-bunny`) each contain:
-  - A README with details about the artist.
-  - Subfolders for albums, each with its own README and song tabs.
+The repository is organized as follows:
+
+```plaintext
+artist-name/
+album-name/
+song-title.md
+```
+
+Examples:
+
+- `king-krule/6-feet-beneath-the-moon/baby-blue.md`
+- `bad-bunny/un-verano-sin-ti/yo-no-soy-celoso.md`
+
+There’s also a `/personal/` folder for original tabs or personal progressions, and `tab-template.md` for consistent formatting.
+
+---
+
+## Usage
+
+All tabs are written in standard Markdown using plaintext tab notation. You can view them directly on GitHub or clone the repo and open them in your preferred Markdown editor.
+
+Want to log your own chord ideas or progressions? Use `chords.md` or `tab-template.md` to maintain consistency.
+
+---
 
 ## Contributing
 
-If you’d like to add new tabs or improve existing ones, please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to submit changes.
+If you'd like to add new tabs or improve existing ones:
 
-## License
+1. Fork the repository.
+2. Create a new branch (`git checkout -b add-new-tab`).
+3. Add your files in the correct folder.
+4. Commit your changes.
+5. Open a pull request.
 
-All original transcriptions in this repository are released under the [MIT License](LICENSE.md). However, please note that **the actual songs are copyrighted by their respective owners**. These tabs are for **educational and personal use only**.
+See `CONTRIBUTING.md` (to be created) for formatting guidelines.
+
+---
 
 ## Disclaimer
 
-I do not claim any ownership of the songs themselves. All music rights belong to the original composers, producers, and record labels. These transcriptions are fan-made and provided free of charge. 
+I do not claim ownership of any of the original music.  
+All rights belong to the respective artists, labels, and publishers.  
+These fan-made transcriptions are provided free of charge for learning and enjoyment.
 
-Enjoy playing!
+---
+
+## Enjoy playing
