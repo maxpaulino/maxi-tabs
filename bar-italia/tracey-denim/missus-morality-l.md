@@ -1,3 +1,4 @@
+```plaintext
 [Verse 1: NINA]
 I know I trip and stumble while I'm trying to be graceful
 And I don't care if you think it's funny
@@ -41,3 +42,5 @@ I know your mind is changing
 But you're a risk worth taking
 You're scared but still complaining
 I can't just stand here waiting
+```
+
