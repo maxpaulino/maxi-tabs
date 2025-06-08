@@ -1,3 +1,11 @@
+# Missus Morality (Vocals)
+
+**Artist:** bar italia  
+**Album:** Tracey Denim
+
+---
+
+
 ```plaintext
 [Verse 1: NINA]
 I know I trip and stumble while I'm trying to be graceful
