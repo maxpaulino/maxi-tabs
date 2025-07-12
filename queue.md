@@ -8,3 +8,5 @@
 - animal collective - chocolate girl
 - deathcrash - metro 1
 - deathcrash - People thought my windows were stars
+- king krule - out getting ribs
+- the microphones - the moon
