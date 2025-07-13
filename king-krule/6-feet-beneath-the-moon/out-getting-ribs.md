@@ -119,6 +119,50 @@ D |--9-------------------------------------9-9--------9-9-----5--5-5-5-5-5-5/12-
 
 ---
 
+
+## Lyrics (Optional)
+
+```
+And hate runs through my blood
+Well, my tongue was in love
+But my heart was left above
+I've got to be leaving now
+I thought I'd never be shot down
+But girl, I'm black and blue
+So beaten down for you
+Well, I'm beaten down in bloom
+
+Don't break away
+
+I waste away
+Don't break away
+
+And lay me out across the grey
+Hours, I should have kept at bay
+Well, I had no chance to get away
+I can't escape my own escape
+Even more when it's sweet to the taste
+Red stairs lead sense astray
+I look up and seek for faith
+Oh, but girl just lean over and say
+
+Well, lay me down
+Pull me out
+Well, take my crown again
+He's submerged in doubt
+
+But wait, I make my last request
+See this could be the best
+But blue, I need to rest
+See I been broken down
+So much has lost it now
+I just stop and say
+Girl, don't you worry 'bout a thing
+Baby blue
+```
+
+---
+
 ## Notes & Performance Tips
 
 * **Tuning:** DADF#BE (Open D Alternate)
