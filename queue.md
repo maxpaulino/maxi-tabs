@@ -13,3 +13,4 @@
 - the microphones - the moon
 - max demarco - 20230109
 - caetano veloso - coracao vagabundo
+- caetano veloso - coisa mais linda
