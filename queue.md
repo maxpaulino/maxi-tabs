@@ -8,9 +8,9 @@
 - deathcrash - metro 1
 - deathcrash - People thought my windows were stars
 
+---
 
-- king krule - out getting ribs
 - the microphones - the moon
-- max demarco - 20230109
+- max demarco - 20201203
 - caetano veloso - coracao vagabundo
 - caetano veloso - coisa mais linda
