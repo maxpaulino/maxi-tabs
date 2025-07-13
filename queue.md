@@ -1,5 +1,4 @@
 - jonatan leandoer96 - wooden girl
-- king krule - baby blue
 - dave bixby - drug song (tab when capo)
 - dave bixby - the morning sun (tab when capo)
 - dave bixby - free indeed (tab when capo)
@@ -8,5 +7,9 @@
 - animal collective - chocolate girl
 - deathcrash - metro 1
 - deathcrash - People thought my windows were stars
+
+
 - king krule - out getting ribs
 - the microphones - the moon
+- max demarco - 20230109
+- caetano veloso - coracao vagabundo
