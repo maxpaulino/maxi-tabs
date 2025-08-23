@@ -22,7 +22,7 @@ I started this project to keep track of all the songs I love to play on guitar. 
 - Share them with friends
 - Receive contributions or corrections from others
 
-This collection currently includes over **30 songs**, and it's growing regularly.
+This collection currently includes over **45 songs**, and it's growing regularly.
 
 ---
 
